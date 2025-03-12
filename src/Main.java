@@ -15,7 +15,7 @@ public class Main {
                 System.out.print(" | ");
             }
         }
-        System.out.println(); // New line for clarity
+        System.out.println();
 
         int sum = 0;
         for (int i = 0; i < dataPoints.length; i++) {

@@ -17,7 +17,7 @@ public class SafeInput {
                 }
             } else {
                 System.out.println("Error: Please enter a valid integer.");
-                in.next(); // clear invalid input
+                in.next();
             }
         }
         return userInt;
